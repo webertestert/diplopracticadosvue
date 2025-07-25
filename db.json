@@ -1,0 +1,28 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nombre": "Matemáticas",
+            "descripcion": "Curso de álgebra y geometría"
+        },
+        {
+            "id": 2,
+            "nombre": "Historia",
+            "descripcion": "Curso de historia mundial"
+        }
+    ],
+    "estudiantes": [
+        {
+            "id": 1,
+            "nombre": "Juan Pérez",
+            "email": "juan@mail.com",
+            "cursoId": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Ana Gómez",
+            "email": "ana@mail.com",
+            "cursoId": 2
+        }
+    ]
+}

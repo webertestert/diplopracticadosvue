@@ -1,0 +1,49 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "Matemáticas",
+      "descripcion": "Curso de álgebra y geometría"
+    },
+    {
+      "id": 2,
+      "nombre": "Historia",
+      "descripcion": "Curso de historia mundial"
+    },
+    {
+      "id": 3,
+      "nombre": "Algeb",
+      "descripcion": "Fundamental en matematicas"
+    },
+    {
+      "id": 4,
+      "nombre": "Fisica",
+      "descripcion": "Estudia el comportamiento de los objetos y su movimientos"
+    }
+  ],
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "email": "juan@mail.com",
+      "cursoId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Gómez",
+      "email": "ana@mail.com",
+      "cursoId": 2
+    },
+    {
+      "cursoId": 3,
+      "nombre": "Isan Lam",
+      "email": "iiiiii@demo.comhth",
+      "id": 3,
+      "curso": {
+        "id": 2,
+        "nombre": "Historia",
+        "descripcion": "Curso de historia mundial"
+      }
+    }
+  ]
+}

@@ -4,7 +4,9 @@
 ```
 npm install
 ```
-
+```
+sudo npm install -g json-server
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
